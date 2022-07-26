@@ -97,7 +97,7 @@ In section 2 of the challenge, I used my skills working with weather data to pla
 - Screenshot of HeatMap with Hotel Markers: [Here](/WeatherPy/outputData/Humidity%20Heatmap%20with%20Hotels%20(VacationPy).png)
 
 ### Analysis
-In the analysis, I created a heat map that displays the humidity for every city from Part 1, as in the following image:
+In this analysis, I created a heat map that displays the humidity for every city from Part 1, as in the following image:
 
 ![image](/WeatherPy/outputData/Humidity%20Heatmap%20(VacationPy).png)
 
