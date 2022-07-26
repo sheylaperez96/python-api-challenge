@@ -68,14 +68,22 @@ No correlation between the latitude of a city and the percentage of humidity.
 No correlation between the latitude of a city and the percentage of cloudiness.
 
 - Southern Hemisphere - Cloudiness (%) vs. Latitude
-    ![image](/WeatherPy/outputData/SH%20-%20Cloudiness%20vs%20Latitude%20Regression.png)
-    No correlation between the latitude of a city and the percentage of cloudiness.
+
+![image](/WeatherPy/outputData/SH%20-%20Cloudiness%20vs%20Latitude%20Regression.png)
+
+No correlation between the latitude of a city and the percentage of cloudiness.
+
 - Northern Hemisphere - Wind Speed (mph) vs. Latitude
-    ![image](/WeatherPy/outputData/NH%20-%20Wind%20Speed%20vs%20Latitude%20Regression.png)
-    No correlation between the latitude of a city and the speed of the wind.
+
+![image](/WeatherPy/outputData/NH%20-%20Wind%20Speed%20vs%20Latitude%20Regression.png)
+
+No correlation between the latitude of a city and the speed of the wind.
+
 - Southern Hemisphere - Wind Speed (mph) vs. Latitude
-    ![image](/WeatherPy/outputData/SH%20-%20Wind%20Speed%20vs%20Latitude%20Regression.png)
-    No correlation between the latitude of a city and the speed of the wind.
+
+![image](/WeatherPy/outputData/SH%20-%20Wind%20Speed%20vs%20Latitude%20Regression.png)
+
+No correlation between the latitude of a city and the speed of the wind.
 
 ## Part 2: VacationPy
 
@@ -89,6 +97,7 @@ In section 2 of the challenge, I used my skills working with weather data to pla
 
 ### Analysis
 In the analysis, I created a heat map that displays the humidity for every city from Part 1, as in the following image:
+
 ![image](/WeatherPy/outputData/Humidity%20Heatmap%20(VacationPy).png)
 
 I then narrowed down my data to find cities where all of the following "ideal" conditions were met:
@@ -108,4 +117,5 @@ The data resulted in 8 cities:
 - Union (US)
 
 I then created marker layers over the cities in the map. When you click on a specific marker layer, it will display the name of the city and the closest hotel.
+
 ![image](/WeatherPy/outputData/Humidity%20Heatmap%20with%20Hotels%20(VacationPy).png)
