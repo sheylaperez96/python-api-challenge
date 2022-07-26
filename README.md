@@ -21,15 +21,19 @@ In this section, I created a Python script to visualize the weather of 500+ citi
 ### Analysis
 The first part of the analysis was to build a series of scatter plots to showcase the following relationships:
 - Temperature (F) vs. Latitude
+
 ![image](/WeatherPy/outputData/Latitude%20vs%20Max%20Temperature.png)
 
 - Humidity (%) vs. Latitude
+
 ![image](/WeatherPy/outputData/Latitude%20vs%20Humidity.png)
 
 - Cloudiness (%) vs. Latitude
+
 ![image](/WeatherPy/outputData/Latitude%20vs%20Cloudiness.png)
 
 - Wind Speed (mph) vs. Latitude
+
 ![image](/WeatherPy/outputData/Latitude%20vs%20Wind%20Speed.png)
 
 The second part of the analysis was to compute the linear regression for each relationship. This time, I separated the plots into Northern Hemisphere and Southern Hemisphere. 
