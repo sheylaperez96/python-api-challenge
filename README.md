@@ -22,68 +22,69 @@ In this section, I created a Python script to visualize the weather of 500+ citi
 The first part of the analysis was to build a series of scatter plots to showcase the following relationships:
 - Temperature (F) vs. Latitude
 
-![image](/WeatherPy/outputData/Latitude%20vs%20Max%20Temperature.png)
+    ![image](/WeatherPy/outputData/Latitude%20vs%20Max%20Temperature.png)
 
 - Humidity (%) vs. Latitude
 
-![image](/WeatherPy/outputData/Latitude%20vs%20Humidity.png)
+    ![image](/WeatherPy/outputData/Latitude%20vs%20Humidity.png)
 
 - Cloudiness (%) vs. Latitude
 
-![image](/WeatherPy/outputData/Latitude%20vs%20Cloudiness.png)
+    ![image](/WeatherPy/outputData/Latitude%20vs%20Cloudiness.png)
 
 - Wind Speed (mph) vs. Latitude
 
-![image](/WeatherPy/outputData/Latitude%20vs%20Wind%20Speed.png)
+    ![image](/WeatherPy/outputData/Latitude%20vs%20Wind%20Speed.png)
 
 The second part of the analysis was to compute the linear regression for each relationship. This time, I separated the plots into Northern Hemisphere and Southern Hemisphere. 
+
 - Northern Hemisphere - Temperature (F) vs. Latitude
 
 ![image](/WeatherPy/outputData/NH%20-%20Max%20Temp%20vs%20Latitude%20Regression.png)
 
-In the northern hemisphere, as you move away from the equator, the temperature decreases (negative correlation).
+    In the northern hemisphere, as you move away from the equator, the temperature decreases (negative correlation).
 
 - Southern Hemisphere - Temperature (F) vs. Latitude
 
-![image](/WeatherPy/outputData/SH%20-%20Max%20Temp%20vs%20Latitude%20Regression.png)
+    ![image](/WeatherPy/outputData/SH%20-%20Max%20Temp%20vs%20Latitude%20Regression.png)
 
-In the southern hemisphere, as you move closer to the equator, the temperature increases (positive correlation).
+    In the southern hemisphere, as you move closer to the equator, the temperature increases (positive correlation).
 
 - Northern Hemisphere - Humidity (%) vs. Latitude
 
-![image](/WeatherPy/outputData/NH%20-%20Humidity%20vs%20Latitude%20Regression.png)
+    ![image](/WeatherPy/outputData/NH%20-%20Humidity%20vs%20Latitude%20Regression.png)
 
-No correlation between the latitude of a city and the percentage of humidity.
+    No correlation between the latitude of a city and the percentage of humidity.
 
 - Southern Hemisphere - Humidity (%) vs. Latitude
 
-![image](/WeatherPy/outputData/SH%20-%20Humidity%20vs%20Latitude%20Regression.png)
+    ![image](/WeatherPy/outputData/SH%20-%20Humidity%20vs%20Latitude%20Regression.png)
 
-No correlation between the latitude of a city and the percentage of humidity.
+    No correlation between the latitude of a city and the percentage of humidity.
 
 - Northern Hemisphere - Cloudiness (%) vs. Latitude
 
-![image](/WeatherPy/outputData/NH%20-%20Cloudiness%20vs%20Latitude%20Regression.png)
+    ![image](/WeatherPy/outputData/NH%20-%20Cloudiness%20vs%20Latitude%20Regression.png)
     
-No correlation between the latitude of a city and the percentage of cloudiness.
+    No correlation between the latitude of a city and the percentage of cloudiness.
 
 - Southern Hemisphere - Cloudiness (%) vs. Latitude
 
-![image](/WeatherPy/outputData/SH%20-%20Cloudiness%20vs%20Latitude%20Regression.png)
+    ![image](/WeatherPy/outputData/SH%20-%20Cloudiness%20vs%20Latitude%20Regression.png)
 
-No correlation between the latitude of a city and the percentage of cloudiness.
+    No correlation between the latitude of a city and the percentage of cloudiness.
 
 - Northern Hemisphere - Wind Speed (mph) vs. Latitude
 
-![image](/WeatherPy/outputData/NH%20-%20Wind%20Speed%20vs%20Latitude%20Regression.png)
+    ![image](/WeatherPy/outputData/NH%20-%20Wind%20Speed%20vs%20Latitude%20Regression.png)
 
-No correlation between the latitude of a city and the speed of the wind.
+    No correlation between the latitude of a city and the speed of the wind.
 
 - Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
-![image](/WeatherPy/outputData/SH%20-%20Wind%20Speed%20vs%20Latitude%20Regression.png)
+    ![image](/WeatherPy/outputData/SH%20-%20Wind%20Speed%20vs%20Latitude%20Regression.png)
 
-No correlation between the latitude of a city and the speed of the wind.
+    No correlation between the latitude of a city and the speed of the wind.
 
 ## Part 2: VacationPy
 
