@@ -21,7 +21,7 @@ In this section, I created a Python script to visualize the weather of 500+ citi
 ### Analysis
 The first part of the analysis was to build a series of scatter plots to showcase the following relationships:
 - Temperature (F) vs. Latitude
-    ![image](/WeatherPy/outputData/Latitude%20vs%20Max%20Temperature.png)
+![image](/WeatherPy/outputData/Latitude%20vs%20Max%20Temperature.png)
 - Humidity (%) vs. Latitude
     ![image](/WeatherPy/outputData/Latitude%20vs%20Humidity.png)
 - Cloudiness (%) vs. Latitude
