@@ -38,20 +38,35 @@ The first part of the analysis was to build a series of scatter plots to showcas
 
 The second part of the analysis was to compute the linear regression for each relationship. This time, I separated the plots into Northern Hemisphere and Southern Hemisphere. 
 - Northern Hemisphere - Temperature (F) vs. Latitude
-    ![image](/WeatherPy/outputData/NH%20-%20Max%20Temp%20vs%20Latitude%20Regression.png)
-    In the northern hemisphere, as you move away from the equator, the temperature decreases (negative correlation).
+
+![image](/WeatherPy/outputData/NH%20-%20Max%20Temp%20vs%20Latitude%20Regression.png)
+
+In the northern hemisphere, as you move away from the equator, the temperature decreases (negative correlation).
+
 - Southern Hemisphere - Temperature (F) vs. Latitude
-    ![image](/WeatherPy/outputData/SH%20-%20Max%20Temp%20vs%20Latitude%20Regression.png)
-    In the southern hemisphere, as you move closer to the equator, the temperature increases (positive correlation).
+- 
+![image](/WeatherPy/outputData/SH%20-%20Max%20Temp%20vs%20Latitude%20Regression.png)
+
+In the southern hemisphere, as you move closer to the equator, the temperature increases (positive correlation).
+
 - Northern Hemisphere - Humidity (%) vs. Latitude
-    ![image](/WeatherPy/outputData/NH%20-%20Humidity%20vs%20Latitude%20Regression.png)
-    No correlation between the latitude of a city and the percentage of humidity.
+
+![image](/WeatherPy/outputData/NH%20-%20Humidity%20vs%20Latitude%20Regression.png)
+
+No correlation between the latitude of a city and the percentage of humidity.
+
 - Southern Hemisphere - Humidity (%) vs. Latitude
-    ![image](/WeatherPy/outputData/SH%20-%20Humidity%20vs%20Latitude%20Regression.png)
-    No correlation between the latitude of a city and the percentage of humidity.
+
+![image](/WeatherPy/outputData/SH%20-%20Humidity%20vs%20Latitude%20Regression.png)
+
+No correlation between the latitude of a city and the percentage of humidity.
+
 - Northern Hemisphere - Cloudiness (%) vs. Latitude
-    ![image](/WeatherPy/outputData/NH%20-%20Cloudiness%20vs%20Latitude%20Regression.png)
-    No correlation between the latitude of a city and the percentage of cloudiness.
+
+![image](/WeatherPy/outputData/NH%20-%20Cloudiness%20vs%20Latitude%20Regression.png)
+    
+No correlation between the latitude of a city and the percentage of cloudiness.
+
 - Southern Hemisphere - Cloudiness (%) vs. Latitude
     ![image](/WeatherPy/outputData/SH%20-%20Cloudiness%20vs%20Latitude%20Regression.png)
     No correlation between the latitude of a city and the percentage of cloudiness.
