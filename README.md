@@ -44,7 +44,7 @@ The second part of the analysis was to compute the linear regression for each re
 In the northern hemisphere, as you move away from the equator, the temperature decreases (negative correlation).
 
 - Southern Hemisphere - Temperature (F) vs. Latitude
-- 
+
 ![image](/WeatherPy/outputData/SH%20-%20Max%20Temp%20vs%20Latitude%20Regression.png)
 
 In the southern hemisphere, as you move closer to the equator, the temperature increases (positive correlation).
