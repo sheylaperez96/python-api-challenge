@@ -102,12 +102,14 @@ In this analysis, I created a heat map that displays the humidity of every city 
 ![image](/WeatherPy/outputData/Humidity%20Heatmap%20(VacationPy).png)
 
 I then narrowed down my data to find cities where all of the following "ideal" conditions were met:
+
 - Max Temp is below 80 but at least 70
 - Wind Speed is less than 10 mph
 - Cloudiness is 0%
 - Humidity is less than 80%
 
 The data resulted in 8 cities: 
+
 - Port Elizabeth (South Africa)
 - Cape Town (South Africa)
 - Bonito (Brazil)
